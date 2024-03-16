@@ -10,5 +10,6 @@ Team member details:
 99210041632- SD Anwar
 99210041677-M Rajesh
 
+![Screenshot (52)](https://github.com/Sandeep75759/black_squad/assets/140294961/8f8c4feb-ad24-494b-8810-8ffed20a4d0a)
 
 
