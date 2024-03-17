@@ -12,6 +12,7 @@ Team member details:
 99210041677-M Rajesh(99210041677@klu.ac.in)
 
  The problem it solves:
+ 
  Accessibility: It provides an alternative input method for individuals with physical disabilities who may have difficulty using traditional mouse and keyboard setups.
 
 Ergonomics: It can reduce strain on the hands and wrists associated with prolonged mouse use, as users can control the cursor with hand movements in the air rather than manipulating a physical device.
@@ -21,6 +22,7 @@ Precision: Hand and eye-tracking can offer precise control over the cursor, allo
 Gesture-based interaction: It enables intuitive gesture-based interactions, allowing users to perform actions such as clicking, dragging, and scrolling by simply moving their hands or eyes, which can enhance user experience and productivity.
 
 Virtual reality (VR) and augmented reality (AR) applications: In VR and AR environments, hand and eye-tracking can provide a more immersive and natural way to interact with virtual objects and interfaces, enhancing the overall user experience.
+
 use cases:
 
 Hand Gesture Recognition: Implement a hand gesture recognition algorithm using a camera, such as a webcam or a depth sensor like Microsoft Kinect. This algorithm would track the movements of the user's hand in real-time.
@@ -63,11 +65,11 @@ https://youtu.be/iiuf-0i0sUE?si=tBTXLdDdA1QH2C_y
 
 exact steps to test the project:
 
-insatall the python idle old version
-install the cv2 in the command prompt
-install the mediapipe cv in the command prompt
-install the pyautogui in the coomand prompt 
-and the run the code
+insatall the python idle old version,
+install the cv2 in the command prompt,
+install the mediapipe cv in the command prompt,
+install the pyautogui in the command prompt ,
+and execute the program .
 
 Technologies used:
 
