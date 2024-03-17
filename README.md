@@ -58,7 +58,7 @@ Addressing these challenges requires a combination of advanced hardware, softwar
 Demo video link:
 https://youtu.be/iiuf-0i0sUE?si=tBTXLdDdA1QH2C_y
 
-3-5 images 
+3-5 images:
 ![Screenshot (53)](https://github.com/Sandeep75759/black_squad/assets/140294961/c5771c52-e84b-4251-b584-727a17fe5e8f)
 ![Screenshot (55)](https://github.com/Sandeep75759/black_squad/assets/140294961/f43d7d8c-dd61-4515-93ee-ccf557bf11fe)
 ![Screenshot (56)](https://github.com/Sandeep75759/black_squad/assets/140294961/a3983052-d9d8-43b2-931d-d8b0c554e6a5)
@@ -68,8 +68,8 @@ exact steps to test the project:
 insatall the python idle old version,
 install the cv2 in the command prompt,
 install the mediapipe cv in the command prompt,
-install the pyautogui in the command prompt ,
-and execute the program .
+install the pyautogui in the command prompt, 
+and execute the program. 
 
 Technologies used:
 
